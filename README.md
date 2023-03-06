@@ -11,6 +11,10 @@ Other things about him:
 - 💻 He is also a Wordpress developer who works for small or personal brands.
 - 🎉 JavaScript enthusiast.
 
+- 💻 currently learning Django.
+- Looking to collaborate on Nodejs and Django.
+ 
+
 ### 🛠️  Technical Skill Set
 
 ### Tech Stack:
