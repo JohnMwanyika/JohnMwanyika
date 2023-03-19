@@ -11,7 +11,7 @@ Other things about him:
 - 🎉 JavaScript enthusiast.
 - 💻 currently learning Django.
 - Looking to collaborate on Nodejs and Django.
-- Designs user interfaces at times.
+- Designs user interfaces and logos at times.
 - photoshop
  
 
