@@ -7,10 +7,8 @@
 John Mwanyika is a Web Application Developer. He works as a Junior developer at <span><a href="https://algominetech.co.ke">Algomine<a/></span> tech and also a part-time Freelancer. 
 
 Other things about him:
-- 🌱 He is a content creator and social media manager.
-- 💻 He is also a Wordpress developer who works for small or personal brands.
+- 💻 He is a Wordpress developer who works for small or personal brands.
 - 🎉 JavaScript enthusiast.
-
 - 💻 currently learning Django.
 - Looking to collaborate on Nodejs and Django.
  
