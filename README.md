@@ -9,7 +9,7 @@ John Mwanyika is a Web Application Developer. He works as a Junior developer at 
 Other things about him:
 - 💻 He is a Wordpress developer who works for small or personal brands.
 - 🎉 JavaScript enthusiast.
-- 💻 currently learning Django.
+- 💻 currently learning Next.js.
 - Looking to collaborate on Nodejs and Django.
 - Designs user interfaces and logos at times.
 - photoshop
