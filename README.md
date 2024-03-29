@@ -4,7 +4,7 @@
 </p>
 
 ## Hello World, I'm John Mwanyika 👋
-John Mwanyika is a Web Application Developer. He works as a Software developer at <span><a href="https://elphways.com">Elphways<a/></span> tech and also a part-time Freelancer. 
+John Mwanyika is a Web Application Developer. He works as a Software developer at <span><a href="https://elphways.com">Elphways<a/></span> and also a part-time Freelancer. 
 
 Other things about him:
 - 💻 He is a Wordpress developer who works for small or personal brands.
